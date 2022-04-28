@@ -1,3 +1,5 @@
+//Written By: Nurul Saiym, Muhammed Kuburovic, and Daniel Palacio
+
 #include <iostream>
 #include <fstream>
 #include <string>
